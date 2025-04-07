@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/system-architecture-landing/static/css/main.84b2935b.css",
+    "main.js": "/system-architecture-landing/static/js/main.c1c39bbb.js",
+    "index.html": "/system-architecture-landing/index.html",
+    "main.84b2935b.css.map": "/system-architecture-landing/static/css/main.84b2935b.css.map",
+    "main.c1c39bbb.js.map": "/system-architecture-landing/static/js/main.c1c39bbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84b2935b.css",
+    "static/js/main.c1c39bbb.js"
+  ]
+}
