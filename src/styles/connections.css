@@ -1,0 +1,20 @@
+.connection-line {
+  position: fixed;
+  height: 2px;
+  background: linear-gradient(90deg, rgba(33,150,243,0.2) 0%, rgba(3,169,244,0.2) 100%);
+  transform-origin: left center;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.connection-line::after {
+  content: '';
+  position: absolute;
+  right: -4px;
+  top: -4px;
+  width: 8px;
+  height: 8px;
+  background-color: #2196f3;
+  border-radius: 50%;
+  opacity: 0.3;
+}
